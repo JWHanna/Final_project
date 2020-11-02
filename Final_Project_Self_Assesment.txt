@@ -1,0 +1,8 @@
+Final_Project_Self_Assesment.txt
+Summary:
+	The purpose of our project was to provide insights into the success of Kickstarter projects through machine learning algorithms. We displayed our data on an interactive dashboard and through an app that allowed users to enter data from a Kickstarter project and receive a "successful" or "unsuccessful" based on that data. We stored our data with AWS RDS created through PostgreSQL.
+	
+	Self Assessment:My largest contributions to this project were while finding a topic, cleaning the data, and helping with the presentation. I often felt out of my depth with the machine learning and dashboard aspects of the project, but I did my best to contribute by asking questions for quality control and contributing to the direction and organization of the project.
+	
+	Team Assessment:My team members were excellent. Akash obviously wasn't able to contribute much after his incident, but I feel we all worked all together to overcome this obstacle. I learned a lot from the individuals in my group and am grateful that I had the opportunity to work with them.
+
